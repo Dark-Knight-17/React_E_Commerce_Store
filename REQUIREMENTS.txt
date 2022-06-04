@@ -1,0 +1,5 @@
+npm install react-icons --save
+npm i -D react-router-dom  OR IF THIS IS ALREADY INSTALLED
+npm i -D react-router-dom@latest 
+npm install @material-ui/lab
+npm install axios
